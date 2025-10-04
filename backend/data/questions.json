@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "id": "sci-001",
+      "category": "Science",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-002",
+      "category": "Science",
+      "question": "What planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-003",
+      "category": "Science",
+      "question": "What is the speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "200,000 km/s"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-004",
+      "category": "Science",
+      "question": "What is the largest organ in the human body?",
+      "options": ["Heart", "Brain", "Liver", "Skin"],
+      "correctAnswer": 3,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-005",
+      "category": "Science",
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-001",
+      "category": "History",
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-002",
+      "category": "History",
+      "question": "Who was the first President of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-003",
+      "category": "History",
+      "question": "In which year did the Titanic sink?",
+      "options": ["1910", "1911", "1912", "1913"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-004",
+      "category": "History",
+      "question": "Which ancient wonder is still standing?",
+      "options": ["Hanging Gardens", "Great Pyramid of Giza", "Colossus of Rhodes", "Lighthouse of Alexandria"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-005",
+      "category": "History",
+      "question": "Who discovered America in 1492?",
+      "options": ["Marco Polo", "Christopher Columbus", "Ferdinand Magellan", "Vasco da Gama"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-001",
+      "category": "Geography",
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-002",
+      "category": "Geography",
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctAnswer": 3,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-003",
+      "category": "Geography",
+      "question": "Which country has the most natural lakes?",
+      "options": ["USA", "Canada", "Russia", "Finland"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-004",
+      "category": "Geography",
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-005",
+      "category": "Geography",
+      "question": "Mount Everest is located in which mountain range?",
+      "options": ["Alps", "Andes", "Himalayas", "Rockies"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-001",
+      "category": "Sports",
+      "question": "How many players are on a soccer team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-002",
+      "category": "Sports",
+      "question": "In which sport would you perform a slam dunk?",
+      "options": ["Volleyball", "Basketball", "Tennis", "Baseball"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-003",
+      "category": "Sports",
+      "question": "How many Grand Slam tournaments are there in tennis?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-004",
+      "category": "Sports",
+      "question": "What is the diameter of a basketball hoop in inches?",
+      "options": ["16", "18", "20", "22"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-005",
+      "category": "Sports",
+      "question": "Which country won the first FIFA World Cup?",
+      "options": ["Brazil", "Argentina", "Uruguay", "Germany"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-001",
+      "category": "Entertainment",
+      "question": "Who directed the movie 'Inception'?",
+      "options": ["Steven Spielberg", "Christopher Nolan", "James Cameron", "Martin Scorsese"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-002",
+      "category": "Entertainment",
+      "question": "Which band released the album 'Abbey Road'?",
+      "options": ["The Rolling Stones", "The Beatles", "Led Zeppelin", "Pink Floyd"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-003",
+      "category": "Entertainment",
+      "question": "What is the highest-grossing film of all time?",
+      "options": ["Titanic", "Avatar", "Avengers: Endgame", "Star Wars"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-004",
+      "category": "Entertainment",
+      "question": "Who played Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-005",
+      "category": "Entertainment",
+      "question": "What is the longest-running Broadway show?",
+      "options": ["The Lion King", "Cats", "The Phantom of the Opera", "Les Misérables"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-001",
+      "category": "Technology",
+      "question": "Who is the founder of Microsoft?",
+      "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Elon Musk"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-002",
+      "category": "Technology",
+      "question": "What does 'HTTP' stand for?",
+      "options": ["HyperText Transfer Protocol", "High Transfer Text Protocol", "HyperText Transmission Process", "High Tech Transfer Protocol"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-003",
+      "category": "Technology",
+      "question": "In what year was the first iPhone released?",
+      "options": ["2005", "2006", "2007", "2008"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-004",
+      "category": "Technology",
+      "question": "What programming language is known as the 'language of the web'?",
+      "options": ["Python", "Java", "JavaScript", "C++"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-005",
+      "category": "Technology",
+      "question": "What does 'AI' stand for?",
+      "options": ["Automated Intelligence", "Artificial Intelligence", "Advanced Integration", "Automated Integration"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-001",
+      "category": "Literature",
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-002",
+      "category": "Literature",
+      "question": "What is the first book in the Harry Potter series?",
+      "options": ["Chamber of Secrets", "Prisoner of Azkaban", "Philosopher's Stone", "Goblet of Fire"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-003",
+      "category": "Literature",
+      "question": "Who wrote '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-004",
+      "category": "Literature",
+      "question": "What is the best-selling book of all time?",
+      "options": ["The Lord of the Rings", "A Tale of Two Cities", "The Bible", "Harry Potter series"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-005",
+      "category": "Literature",
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": ["Charlotte Brontë", "Emily Brontë", "Jane Austen", "Mary Shelley"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-001",
+      "category": "Mathematics",
+      "question": "What is the value of Pi (π) to two decimal places?",
+      "options": ["3.12", "3.14", "3.16", "3.18"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-002",
+      "category": "Mathematics",
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-003",
+      "category": "Mathematics",
+      "question": "What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-004",
+      "category": "Mathematics",
+      "question": "How many sides does a hexagon have?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-005",
+      "category": "Mathematics",
+      "question": "What is the sum of angles in a triangle?",
+      "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-001",
+      "category": "Art",
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-002",
+      "category": "Art",
+      "question": "What art movement is Salvador Dalí associated with?",
+      "options": ["Impressionism", "Cubism", "Surrealism", "Expressionism"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-003",
+      "category": "Art",
+      "question": "Which artist cut off part of his own ear?",
+      "options": ["Claude Monet", "Vincent van Gogh", "Paul Cézanne", "Edgar Degas"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-004",
+      "category": "Art",
+      "question": "Where is the Louvre Museum located?",
+      "options": ["London", "Rome", "Paris", "Madrid"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-005",
+      "category": "Art",
+      "question": "Who sculpted 'The Thinker'?",
+      "options": ["Auguste Rodin", "Donatello", "Michelangelo", "Bernini"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-001",
+      "category": "Music",
+      "question": "How many strings does a standard guitar have?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-002",
+      "category": "Music",
+      "question": "Who is known as the 'King of Pop'?",
+      "options": ["Elvis Presley", "Michael Jackson", "Prince", "David Bowie"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-003",
+      "category": "Music",
+      "question": "What is the highest male singing voice?",
+      "options": ["Tenor", "Baritone", "Bass", "Countertenor"],
+      "correctAnswer": 3,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-004",
+      "category": "Music",
+      "question": "Which instrument has 88 keys?",
+      "options": ["Organ", "Piano", "Accordion", "Harpsichord"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-005",
+      "category": "Music",
+      "question": "What does 'tempo' mean in music?",
+      "options": ["Volume", "Speed", "Pitch", "Rhythm"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-006",
+      "category": "Science",
+      "question": "What is the smallest unit of life?",
+      "options": ["Atom", "Molecule", "Cell", "Organ"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-007",
+      "category": "Science",
+      "question": "How many bones are in the adult human body?",
+      "options": ["186", "206", "226", "246"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-008",
+      "category": "Science",
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Titanium"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-009",
+      "category": "Science",
+      "question": "What is the boiling point of water in Celsius?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sci-010",
+      "category": "Science",
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Venus", "Earth", "Mercury", "Mars"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-006",
+      "category": "History",
+      "question": "Who was the first man to walk on the moon?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-007",
+      "category": "History",
+      "question": "In which year did the Berlin Wall fall?",
+      "options": ["1987", "1988", "1989", "1990"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-008",
+      "category": "History",
+      "question": "Who was the first female Prime Minister of the United Kingdom?",
+      "options": ["Margaret Thatcher", "Theresa May", "Queen Victoria", "Angela Merkel"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-009",
+      "category": "History",
+      "question": "What year did the French Revolution begin?",
+      "options": ["1776", "1789", "1799", "1804"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "hist-010",
+      "category": "History",
+      "question": "Who was the ancient Egyptian queen known for her beauty?",
+      "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Nefertari"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-006",
+      "category": "Geography",
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-007",
+      "category": "Geography",
+      "question": "Which desert is the largest in the world?",
+      "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+      "correctAnswer": 3,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-008",
+      "category": "Geography",
+      "question": "What is the capital of Japan?",
+      "options": ["Osaka", "Kyoto", "Tokyo", "Hiroshima"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-009",
+      "category": "Geography",
+      "question": "Which continent is the driest inhabited continent?",
+      "options": ["Africa", "Australia", "South America", "Asia"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "geo-010",
+      "category": "Geography",
+      "question": "What is the tallest mountain in North America?",
+      "options": ["Mount Whitney", "Mount Rainier", "Denali", "Mount Logan"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-006",
+      "category": "Sports",
+      "question": "How long is an Olympic swimming pool in meters?",
+      "options": ["25", "50", "75", "100"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-007",
+      "category": "Sports",
+      "question": "What sport is known as 'the beautiful game'?",
+      "options": ["Basketball", "Tennis", "Soccer", "Cricket"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-008",
+      "category": "Sports",
+      "question": "How many rings are on the Olympic flag?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-009",
+      "category": "Sports",
+      "question": "In golf, what is a score of one under par called?",
+      "options": ["Eagle", "Birdie", "Bogey", "Albatross"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "sports-010",
+      "category": "Sports",
+      "question": "How many players are on a baseball team on the field?",
+      "options": ["8", "9", "10", "11"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-006",
+      "category": "Entertainment",
+      "question": "What is the name of Harry Potter's owl?",
+      "options": ["Errol", "Pigwidgeon", "Hedwig", "Scabbers"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-007",
+      "category": "Entertainment",
+      "question": "Who won the first season of American Idol?",
+      "options": ["Carrie Underwood", "Kelly Clarkson", "Fantasia Barrino", "Ruben Studdard"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-008",
+      "category": "Entertainment",
+      "question": "What is the fictional city where Batman operates?",
+      "options": ["Metropolis", "Star City", "Gotham City", "Central City"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-009",
+      "category": "Entertainment",
+      "question": "Which Disney movie features the song 'Let It Go'?",
+      "options": ["Tangled", "Moana", "Frozen", "Brave"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "ent-010",
+      "category": "Entertainment",
+      "question": "Who played Jack in the movie Titanic?",
+      "options": ["Brad Pitt", "Leonardo DiCaprio", "Tom Cruise", "Johnny Depp"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-006",
+      "category": "Technology",
+      "question": "What does 'USB' stand for?",
+      "options": ["Universal Serial Bus", "United System Base", "Universal System Bus", "United Serial Base"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-007",
+      "category": "Technology",
+      "question": "Who co-founded Apple with Steve Jobs?",
+      "options": ["Bill Gates", "Steve Wozniak", "Tim Cook", "Mark Zuckerberg"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-008",
+      "category": "Technology",
+      "question": "What does 'WWW' stand for in a website URL?",
+      "options": ["World Wide Web", "World Web Wide", "Wide World Web", "Web World Wide"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-009",
+      "category": "Technology",
+      "question": "What year was Google founded?",
+      "options": ["1996", "1998", "2000", "2002"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "tech-010",
+      "category": "Technology",
+      "question": "What is the name of Amazon's voice assistant?",
+      "options": ["Siri", "Cortana", "Alexa", "Google Assistant"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-006",
+      "category": "Literature",
+      "question": "Who wrote 'The Great Gatsby'?",
+      "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck", "William Faulkner"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-007",
+      "category": "Literature",
+      "question": "What is the name of Sherlock Holmes's assistant?",
+      "options": ["Dr. Watson", "Inspector Lestrade", "Mycroft Holmes", "Mrs. Hudson"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-008",
+      "category": "Literature",
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Truman Capote", "Maya Angelou", "Toni Morrison"],
+      "correctAnswer": 0,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-009",
+      "category": "Literature",
+      "question": "What is the first name of Mr. Darcy in Pride and Prejudice?",
+      "options": ["William", "Charles", "Fitzwilliam", "George"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "lit-010",
+      "category": "Literature",
+      "question": "Who wrote 'The Odyssey'?",
+      "options": ["Virgil", "Homer", "Sophocles", "Euripides"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-006",
+      "category": "Mathematics",
+      "question": "What is 12 × 12?",
+      "options": ["124", "134", "144", "154"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-007",
+      "category": "Mathematics",
+      "question": "What is the next prime number after 7?",
+      "options": ["9", "10", "11", "13"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-008",
+      "category": "Mathematics",
+      "question": "What is 50% of 80?",
+      "options": ["30", "35", "40", "45"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-009",
+      "category": "Mathematics",
+      "question": "How many degrees are in a right angle?",
+      "options": ["45", "60", "90", "180"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "math-010",
+      "category": "Mathematics",
+      "question": "What is the value of 2 to the power of 5?",
+      "options": ["16", "25", "32", "64"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-006",
+      "category": "Art",
+      "question": "What famous painting features a woman with an enigmatic smile?",
+      "options": ["The Scream", "Girl with a Pearl Earring", "Mona Lisa", "The Birth of Venus"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-007",
+      "category": "Art",
+      "question": "Who painted 'Starry Night'?",
+      "options": ["Claude Monet", "Vincent van Gogh", "Pablo Picasso", "Paul Gauguin"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-008",
+      "category": "Art",
+      "question": "What is the primary color that cannot be made by mixing other colors?",
+      "options": ["Green", "Orange", "Purple", "Red"],
+      "correctAnswer": 3,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-009",
+      "category": "Art",
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "art-010",
+      "category": "Art",
+      "question": "What art technique uses small dots to create an image?",
+      "options": ["Impressionism", "Pointillism", "Cubism", "Abstract"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-006",
+      "category": "Music",
+      "question": "How many keys are on a standard piano?",
+      "options": ["76", "82", "88", "92"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-007",
+      "category": "Music",
+      "question": "Who is known as the 'Queen of Pop'?",
+      "options": ["Beyoncé", "Madonna", "Lady Gaga", "Whitney Houston"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-008",
+      "category": "Music",
+      "question": "What musical term means to play softly?",
+      "options": ["Forte", "Piano", "Allegro", "Crescendo"],
+      "correctAnswer": 1,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-009",
+      "category": "Music",
+      "question": "Which band sang 'Bohemian Rhapsody'?",
+      "options": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    },
+    {
+      "id": "music-010",
+      "category": "Music",
+      "question": "What does the musical term 'a cappella' mean?",
+      "options": ["Very fast", "Very slow", "Without instruments", "With orchestra"],
+      "correctAnswer": 2,
+      "timeLimit": 10
+    }
+  ]
+}

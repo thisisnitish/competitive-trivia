@@ -1,0 +1,161 @@
+.results-container {
+  width: 100%;
+  max-width: 700px;
+}
+
+.results-card {
+  background: white;
+  border-radius: 16px;
+  padding: 40px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+
+  .results-title {
+    color: #2c3e50;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 36px;
+  }
+
+  .winner-section {
+    text-align: center;
+    margin-bottom: 40px;
+    padding: 30px;
+    background: linear-gradient(135deg, #f39c12 0%, #f1c40f 100%);
+    border-radius: 12px;
+
+    h2 {
+      color: white;
+      margin-bottom: 15px;
+      font-size: 24px;
+    }
+
+    .winner-name {
+      color: white;
+      font-size: 32px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .winner-score {
+      color: white;
+      font-size: 20px;
+      opacity: 0.9;
+    }
+  }
+
+  .leaderboard-section {
+    margin-bottom: 30px;
+
+    h3 {
+      color: #2c3e50;
+      margin-bottom: 20px;
+      font-size: 22px;
+    }
+
+    .final-leaderboard {
+      list-style: none;
+      padding: 0;
+
+      .leaderboard-item {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        padding: 15px;
+        margin-bottom: 10px;
+        background-color: #f8f9fa;
+        border-radius: 8px;
+
+        &.current-user {
+          background-color: #e8f4f8;
+          border: 2px solid #3498db;
+        }
+
+        .position {
+          font-size: 24px;
+          font-weight: bold;
+          color: #7f8c8d;
+          min-width: 30px;
+        }
+
+        &:nth-child(1) .position {
+          color: #f39c12;
+        }
+
+        &:nth-child(2) .position {
+          color: #95a5a6;
+        }
+
+        &:nth-child(3) .position {
+          color: #cd7f32;
+        }
+
+        .player-info {
+          flex: 1;
+
+          .name {
+            display: block;
+            color: #2c3e50;
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 5px;
+          }
+
+          .stats {
+            display: block;
+            color: #7f8c8d;
+            font-size: 14px;
+          }
+        }
+      }
+    }
+  }
+
+  .user-stats {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+
+    h3 {
+      color: #2c3e50;
+      margin-bottom: 15px;
+      font-size: 18px;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 15px;
+
+      .stat-item {
+        text-align: center;
+        padding: 15px;
+        background-color: white;
+        border-radius: 8px;
+
+        .stat-label {
+          display: block;
+          color: #7f8c8d;
+          font-size: 14px;
+          margin-bottom: 5px;
+        }
+
+        .stat-value {
+          display: block;
+          color: #2c3e50;
+          font-size: 28px;
+          font-weight: bold;
+        }
+      }
+    }
+  }
+
+  .results-actions {
+    display: flex;
+    gap: 10px;
+
+    .btn {
+      flex: 1;
+    }
+  }
+}

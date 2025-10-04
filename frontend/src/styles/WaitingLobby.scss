@@ -1,0 +1,113 @@
+.lobby-container {
+  width: 100%;
+  max-width: 600px;
+}
+
+.lobby-card {
+  background: white;
+  border-radius: 16px;
+  padding: 40px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1);
+
+  h2 {
+    color: #2c3e50;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 28px;
+  }
+
+  .room-code-section {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+
+    p {
+      color: #7f8c8d;
+      margin-bottom: 10px;
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    .room-code {
+      font-size: 36px;
+      font-weight: bold;
+      color: #3498db;
+      letter-spacing: 8px;
+      margin-bottom: 10px;
+    }
+
+    .code-hint {
+      font-size: 12px;
+      color: #95a5a6;
+    }
+  }
+
+  .players-section {
+    margin-bottom: 30px;
+
+    h3 {
+      color: #2c3e50;
+      margin-bottom: 15px;
+      font-size: 18px;
+    }
+
+    .players-list {
+      list-style: none;
+      padding: 0;
+
+      .player-item {
+        background-color: #f8f9fa;
+        padding: 12px 16px;
+        margin-bottom: 8px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .player-name {
+          color: #2c3e50;
+          font-weight: 600;
+          display: flex;
+          align-items: center;
+          gap: 10px;
+        }
+
+        .creator-badge {
+          background-color: #f39c12;
+          color: white;
+          padding: 4px 8px;
+          border-radius: 4px;
+          font-size: 12px;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+
+  .lobby-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    .waiting-message {
+      text-align: center;
+      padding: 20px;
+      background-color: #fff3cd;
+      border-radius: 8px;
+
+      p {
+        color: #856404;
+        font-weight: 600;
+      }
+    }
+  }
+
+  .info-message {
+    text-align: center;
+    color: #7f8c8d;
+    margin-top: 15px;
+    font-size: 14px;
+  }
+}
