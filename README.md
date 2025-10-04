@@ -146,17 +146,3 @@ Edit `backend/data/questions.json` and add questions in this format:
 ```
 
 **Note**: `correctAnswer` is the index (0-3) of the correct option in the `options` array.
-
-## Troubleshooting
-
-**Backend not starting?**
-- Make sure port 3000 is available
-- Check that all dependencies are installed
-
-**Frontend not connecting?**
-- Ensure the backend is running first
-- Check that the socket URL in `frontend/src/utils/socket.js` matches your backend URL
-
-**Questions not loading?**
-- Verify `backend/data/questions.json` exists and is valid JSON
-- Check backend console for loading errors
