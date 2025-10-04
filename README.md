@@ -99,7 +99,7 @@ The frontend will run on `http://localhost:5173`
 
 4. **Answer Questions**:
    - Each question has 4 options
-   - You have 20 seconds to answer
+   - You have 10 seconds to answer
    - Faster answers earn more points!
 
 5. **Scoring**:
